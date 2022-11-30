@@ -1,5 +1,12 @@
 # Breadcrumb Client-Server App
 
+Prerequisite:<br />
+do npm install first<br />
+e.g.<br />
+`npm install --prefix ./server`\
+`npm install --prefix ./my-app`
+
+<br />
 
 ## Back-end Node server
 
