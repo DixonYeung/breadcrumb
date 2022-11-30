@@ -9,11 +9,11 @@ let root = {
                     children: {
                         "filea.txt": {
                             type: "file",
-                            content: "I am a file called filea.txt"
+                            content: "I am a file called filea.txt" // if testing for new data set, add this content
                         },
                         "fileb.txt": {
                             type: "file",
-                            content: "I am a file called fileb.txt"
+                            content: "I am a file called fileb.txt" // if testing for new data set, add this content
                         },
                         "projects": {
                             type: "dir",
@@ -23,7 +23,7 @@ let root = {
                                     children: {
                                         mysupersecretfile: {
                                             type: "file",
-                                            content: "I am an Alien"
+                                            content: "I am an Alien" // if testing for new data set, add this content
                                         },
                                     },
                                 }
