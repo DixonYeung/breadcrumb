@@ -30,4 +30,5 @@ run the following directly:
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
 Default blank page, go to [http://localhost:3000/path/home](http://localhost:3000/path/home) to start playing
 
-
+Screenshot<br />
+![alt text](https://live.staticflickr.com/65535/52533210099_c6add25265_h.jpg)
